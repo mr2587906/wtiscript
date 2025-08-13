@@ -32,3 +32,27 @@ assets/（css及js檔目錄）
 style.css（網頁特效檔）
 
 app.js（Discord api執行程序檔）
+
+目錄1說明：
+
+1.請到Discord開發平台網站登入您剛註冊的會員帳號並取得您剛新增的伺服器。
+
+2.新增一個客戶端。
+
+3.在客戶端加入大頭照。
+
+4.取得剛新增的客戶端ClientID及Secret複製到config.php貼到Client_id及Select。
+
+5.新增OAuth2。
+
+6.新增bot。
+
+7.取得剛新增的bot裡的token及redirect_uri並貼到config.php裡的redirect_uri跟bot_token。
+
+8.開啟您的Discord App（電腦版或手機版）。
+
+9.點選您的Discord伺服器。
+
+10.在您的Discord伺服器啟用開發者模式。
+
+11.取得您的伺服器任何一個頻道guild_id及使用者的role_id並貼到config.php裡的guild_id跟role_id。
