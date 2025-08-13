@@ -26,8 +26,11 @@ unlink.php(解除Discord綁定/移除角色)
 
 cron_revoke.php(Discord綁定）
 
-assets/（css及js檔目錄）
+password_hash_add.php（密碼轉hash表單輸入頁）
 
+password_hash.php（生成密碼hash碼結果頁）
+
+assets/（css及js檔目錄）
 
 style.css（網頁特效檔）
 
