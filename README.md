@@ -45,7 +45,7 @@ app.js（Discord api執行程序檔）
 
 5.新增OAuth2。
 
-6.新增bot及redirect_uri（例：https://abc.com.tw/discord/callback/discord_callback.php ）。
+6.新增bot及redirect_uri。
 
 7.取得剛新增的bot裡的token及redirect_uri並貼到config.php裡的redirect_uri跟bot_token。
 
