@@ -12,7 +12,7 @@
 
 index.php(登入頁)
 
-config.php(資料庫連線含OAuth2)
+config.php(資料庫連線含OAuth2 + bot + Discord Server Channel guild ID and User role ID)
 
 login.php(處理登入)
 
